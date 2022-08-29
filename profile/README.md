@@ -6,3 +6,5 @@ Go 语言中国社区始于 2010 年，早期同学活跃于 QQ群、Google Code
 现在，诸多第一批的国内 Gopher 已经迈过 35 岁躺平的门槛，终于可以有精力回顾和思考为未来 10 年 Go 在国内的走向。
 
 因此，我们计划重启 Go 语言中国 这个组织， 感谢关注 🙏
+
+![](https://raw.githubusercontent.com/golang-china/.github/main/wechat-golang-china-small.png)
